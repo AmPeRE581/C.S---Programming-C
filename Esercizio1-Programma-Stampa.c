@@ -1,6 +1,7 @@
 /*Verificare il programma, e comprendere cosa lo stesso stampi quando viene avviato*/
 
 #include <stdio.h>
+#include <string.h>
 #define L 7
 
 int N=L;
